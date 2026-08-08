@@ -14,7 +14,7 @@
 
 ## About Me
 
-**Software Engineer & Founder @ Letho AI** | Southern Leyte, Philippines
+**Software Engineer & Founder @ Letho AI** | Cebu, Philippines
 
 Full-Stack Engineer specializing in scalable multi-tenant systems, inventory platforms, and AI-driven applications. I build production-grade software with React, Node.js, Python, and PostgreSQL.
 
