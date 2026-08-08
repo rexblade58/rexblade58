@@ -14,16 +14,23 @@
 </p>
 
 <!--
-  Two-column block. GitHub strips style attributes, so flex and grid do nothing
-  here: the only layouts that survive are a float and a table, and a table draws
-  visible cell borders. The float works as long as the card on the left stays
-  taller than the text on the right, otherwise the text wraps back underneath it.
-  github-metrics.svg is generated portrait by gen_metrics.py for exactly that
-  reason. Shortening the text below, or making the card wider, needs a matching
-  change to the card height.
+  github-metrics.svg is now the landscape 880x540 peak-year card built by
+  github-peak-year/build.mjs, not the old portrait card from gen_metrics.py. It is a
+  full-width centered block rather than a float, so everything below flows normally
+  and there is no card-height-versus-text-length constraint to keep in sync.
+
+  GitHub renders README images through its Camo proxy inside an <img>, which runs the
+  SVG's CSS animations but blocks pointer events, so the card's own hover tooltips stay
+  dormant here. Hence the wrapping link: clicking the card goes to the profile.
+
+  Re-running gen_metrics.py would overwrite this file with the old portrait card.
 -->
 
-<img align="left" width="43%" src="https://raw.githubusercontent.com/rexblade58/rexblade58/main/github-metrics.svg" alt="GitHub metrics for 2026: 1,944 contributions across 221 active days, longest streak 221 days, busiest day 381">
+<p align="center">
+  <a href="https://github.com/rexblade58">
+    <img src="https://raw.githubusercontent.com/rexblade58/rexblade58/main/github-metrics.svg" width="100%" alt="Peak GitHub contribution year 2026: 1,913 contributions across 220 active days, longest streak 220 days, busiest day 381">
+  </a>
+</p>
 
 <h3>Connect</h3>
 
@@ -55,8 +62,6 @@ Node.js, Python and PostgreSQL, with a strong bias toward clean architecture and
 Since 2020 I have shipped commissioned software for institutional clients, led small teams
 building SaaS products, and worked across everything from edge AI to game engines.
 </p>
-
-<br clear="left">
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rexblade58_visitor_badge&left_color=16A085&right_color=0d1117" alt="Visitor count">
