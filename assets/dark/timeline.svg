@@ -1,0 +1,19 @@
+<svg viewBox="0 0 1000 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Timeline">
+<style>
+    :root { --rule: #C0C0C0; --muted: #888888; --accent: #4DFF88; --ghost: #CCCCCC; --ink: #111111; --paper: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      :root { --rule: #444444; --muted: #777777; --accent: #4DFF88; --ghost: #2A2A2A; --ink: #EEEEEE; --paper: #0D1117; }
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .draw { stroke: var(--rule); stroke-width: 1.5; stroke-dasharray: 760; stroke-dashoffset: 760; animation: d 1.3s cubic-bezier(.6,0,.2,1) .2s forwards; }
+    @keyframes d { to { stroke-dashoffset: 0; } }
+    .f { opacity: 0; animation: f .8s ease .1s forwards; }
+    @keyframes f { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .draw,.f { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; } }
+</style>
+  <g class="f">
+    <text class="mono" x="48" y="52" font-size="18" fill="var(--accent)" letter-spacing="2">ROUTE MAP</text>
+    <line x1="52" y1="76" x2="52" y2="232" stroke="var(--rule)" stroke-width="1.5"/>
+<circle cx="48" cy="91" r="4" fill="var(--accent)"/><text class="mono" x="70" y="96" font-size="14" fill="var(--ink)">2016-2018  Learning & games (Kaetram, Cataclysm)</text><circle cx="48" cy="123" r="4" fill="var(--accent)"/><text class="mono" x="70" y="128" font-size="14" fill="var(--ink)">2019-2020  LMS, enrollment & queue systems</text><circle cx="48" cy="155" r="4" fill="var(--accent)"/><text class="mono" x="70" y="160" font-size="14" fill="var(--ink)">2021-2023  College, Explore Maasin, E-Payslip</text><circle cx="48" cy="187" r="4" fill="var(--accent)"/><text class="mono" x="70" y="192" font-size="14" fill="var(--ink)">2024-2025  Bodego platform, OMR, facial recognition</text><circle cx="48" cy="219" r="4" fill="var(--accent)"/><text class="mono" x="70" y="224" font-size="14" fill="var(--ink)">2026  Letho AI, AI agents, MAYKaya</text>
+  </g>
+</svg>

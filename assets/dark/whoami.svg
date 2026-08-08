@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="whoami">
+<style>
+    :root { --rule: #C0C0C0; --muted: #888888; --accent: #4DFF88; --ghost: #CCCCCC; --ink: #111111; --paper: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      :root { --rule: #444444; --muted: #777777; --accent: #4DFF88; --ghost: #2A2A2A; --ink: #EEEEEE; --paper: #0D1117; }
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .draw { stroke: var(--rule); stroke-width: 1.5; stroke-dasharray: 760; stroke-dashoffset: 760; animation: d 1.3s cubic-bezier(.6,0,.2,1) .2s forwards; }
+    @keyframes d { to { stroke-dashoffset: 0; } }
+    .f { opacity: 0; animation: f .8s ease .1s forwards; }
+    @keyframes f { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .draw,.f { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; } }
+</style>
+  <g class="f">
+    <text class="mono" x="48" y="56" font-size="18" fill="var(--accent)" letter-spacing="2">WHOAMI</text>
+    <text class="mono" x="48" y="96" font-size="15" fill="var(--ink)">$ whoami</text>
+    <text class="mono" x="48" y="126" font-size="15" fill="var(--muted)">Full-stack engineer. Founding lead of Bodego - a universal</text>
+    <text class="mono" x="48" y="148" font-size="15" fill="var(--muted)">inventory management platform at Credo Tech.</text>
+    <text class="mono" x="48" y="178" font-size="15" fill="var(--muted)">PhilNITS IP Passer. Dean's List, BS IT - Saint Joseph College.</text>
+    <text class="mono" x="48" y="216" font-size="15" fill="var(--accent)">$ cat expertise.txt</text>
+    <text class="mono" x="48" y="244" font-size="14" fill="var(--ghost)">react | node | python | postgres | rust | go | ai-agents</text>
+  </g>
+</svg>
