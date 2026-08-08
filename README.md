@@ -2,7 +2,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rexblade58_visitor_badge&left_color=16A085&right_color=black"  />
 
 <h3 align="center">🔨 Languages and Tools</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,cpp,cs,kotlin,dart,rust,go,postgres,firebase,docker,git,github,gitlab,vite,linux,redis" alt="Skills and tools"/>
