@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Menard Rosal</h1>
 <p align="center">I'm a Full-stack engineer and founder of Letho AI from     <img src="https://cdn.countryflags.com/thumbs/philippines/flag-400.png" width="2%">   Philippines  
 
-<h3 align="center">Languages and Tools I used</h3>
+<h3 align="center">This are the Languages and Tools I used</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
