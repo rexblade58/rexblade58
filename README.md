@@ -157,7 +157,42 @@ Multi-store Android ecommerce platform with TypeScript service layer, supplier m
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexblade58&theme=dark" width="100%" alt="Profile Details" />
+<a href="https://github.com/rexblade58">
+  <svg width="100%" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="mrbggrad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#07110d"/>
+        <stop offset="100%" stop-color="#0a1811"/>
+      </linearGradient>
+      <linearGradient id="mraccent" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#4dff88"/>
+        <stop offset="100%" stop-color="#2ecc71"/>
+      </linearGradient>
+    </defs>
+    <rect width="720" height="180" rx="12" fill="url(#mrbggrad)" stroke="#193326" stroke-width="1"/>
+    <rect width="720" height="42" rx="12" fill="#0a1811" stroke="#193326" stroke-width="1"/>
+    <rect y="30" width="720" height="12" fill="#0a1811"/>
+    <text x="24" y="28" font-family="Arial,sans-serif" font-size="14" font-weight="bold" fill="url(#mraccent)">Menard Rosal</text>
+    <text x="680" y="28" font-family="Arial,sans-serif" font-size="11" fill="#a8b9ae" text-anchor="end" opacity="0.7">Joined 2016</text>
+    <text x="36" y="72" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Total Contributions</text>
+    <text x="36" y="100" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="url(#mraccent)">1,982</text>
+    <text x="190" y="72" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Public Repos</text>
+    <text x="190" y="100" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="url(#mraccent)">16</text>
+    <text x="320" y="72" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Followers</text>
+    <text x="320" y="100" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="url(#mraccent)">1</text>
+    <text x="460" y="72" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Pull Requests</text>
+    <text x="460" y="100" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="url(#mraccent)">138</text>
+    <text x="600" y="72" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Issues</text>
+    <text x="600" y="100" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="url(#mraccent)">25</text>
+    <line x1="24" y1="122" x2="696" y2="122" stroke="#193326" stroke-width="1" opacity="0.5"/>
+    <text x="36" y="148" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Repos Contributed</text>
+    <text x="36" y="170" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="url(#mraccent)">32</text>
+    <text x="320" y="148" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Code Reviews</text>
+    <text x="320" y="170" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="url(#mraccent)">0</text>
+    <text x="600" y="148" font-family="Arial,sans-serif" font-size="10" fill="#a8b9ae">Stars Received</text>
+    <text x="600" y="170" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="url(#mraccent)">0</text>
+  </svg>
+</a>
 
 <img src="https://streak-stats.demolab.com?user=rexblade58&theme=dark&background=07110d&ring=4dff88&fire=4dff88&currStreakLabel=4dff88&sideNums=e8f5ec&sideLabels=a8b9ae&dates=a8b9ae&hide_border=true" alt="Streak Stats" />
 
