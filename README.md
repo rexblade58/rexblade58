@@ -97,7 +97,7 @@ const menard = {
 ### Bodego Universal Inventory Management System
 **Founding Lead Developer at Credo Tech**
 
-Multi-tenant inventory platform spanning backend API, client admin, warehouse, POS, live tracker, and rider delivery app. Led a small team and established coding standards.
+Multi-tenant inventory platform spanning backend API, client admin, warehouse, POS, live tracker, and rider delivery app.
 
 > **Stack:** React / TypeScript / Node.js / PostgreSQL / Vite
 
@@ -140,19 +140,16 @@ Multi-store Android ecommerce platform with TypeScript service layer, supplier m
 | LabLock | Lab access and equipment management | React, Node.js, QR |
 | Alin App | Cargo logistics and tracking | Flutter, Dart, Firebase |
 | Neon Surge | Browser arcade game | Vanilla JS, Canvas |
-| Codearia | Coding CLI voice assistant | Python, TypeScript |
 
 ---
 
 ## Achievements
 
-- **PhilNITS IP Exam Passer** -- National IT Professional Certification (Japan ITEE Level 2 equivalent)
+- **PhilNITS IP Exam Passer** -- National IT Professional Certification
 - **Top 8** -- Java CodeChum National Competition
 - **2nd Place** -- PSITE Eastern Visayas Regional Programming Contest
 - **Top 2** -- Saint Joseph College Programming Contest
 - **Dean's List** -- 1st through 4th Year, BS Information Technology
-- **Data Privacy 101** -- Certificate of Participation
-- **SGF BootStart 2025** -- Certificate of Participation
 
 ---
 
@@ -160,13 +157,14 @@ Multi-store Android ecommerce platform with TypeScript service layer, supplier m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rexblade58&show_icons=true&theme=dark&title_color=4dff88&icon_color=4dff88&text_color=e8f5ec&bg_color=07110d&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexblade58&theme=dark" width="100%" alt="Profile Details" />
 
 <img src="https://streak-stats.demolab.com?user=rexblade58&theme=dark&background=07110d&ring=4dff88&fire=4dff88&currStreakLabel=4dff88&sideNums=e8f5ec&sideLabels=a8b9ae&dates=a8b9ae&hide_border=true" alt="Streak Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexblade58&layout=compact&theme=dark&title_color=4dff88&text_color=e8f5ec&bg_color=07110d&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rexblade58&theme=dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rexblade58&theme=dark" alt="Most Commit Language" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rexblade58&bg_color=07110d&color=4dff88&line=4dff88&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rexblade58&bg_color=07110d&color=4dff88&line=4dff88&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
