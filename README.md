@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/rexblade58">
-    <img src="https://raw.githubusercontent.com/rexblade58/rexblade58/main/github-metrics.svg?v=2" width="100%" alt="Peak GitHub contribution year 2026: 1,913 contributions across 220 active days, longest streak 220 days, busiest day 381">
+    <img src="https://raw.githubusercontent.com/rexblade58/rexblade58/main/github-metrics.svg?v=3" width="100%" alt="Peak GitHub contribution year 2026: 1,913 contributions across 220 active days, longest streak 220 days, busiest day 381">
   </a>
 </p>
 
