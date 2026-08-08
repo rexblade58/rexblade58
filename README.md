@@ -24,11 +24,16 @@
   dormant here. Hence the wrapping link: clicking the card goes to the profile.
 
   Re-running gen_metrics.py would overwrite this file with the old portrait card.
+
+  The ?v= suffix is a cache buster. The raw endpoint sends Cache-Control: max-age=300,
+  but a browser that already holds the previous card at this path keeps showing it,
+  which looks like the card silently failed to update. Bump the number whenever the
+  card changes shape enough that a stale copy would be confusing.
 -->
 
 <p align="center">
   <a href="https://github.com/rexblade58">
-    <img src="https://raw.githubusercontent.com/rexblade58/rexblade58/main/github-metrics.svg" width="100%" alt="Peak GitHub contribution year 2026: 1,913 contributions across 220 active days, longest streak 220 days, busiest day 381">
+    <img src="https://raw.githubusercontent.com/rexblade58/rexblade58/main/github-metrics.svg?v=2" width="100%" alt="Peak GitHub contribution year 2026: 1,913 contributions across 220 active days, longest streak 220 days, busiest day 381">
   </a>
 </p>
 
