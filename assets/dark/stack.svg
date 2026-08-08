@@ -1,0 +1,18 @@
+<svg viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technical stack">
+<style>
+    :root { --rule: #C0C0C0; --muted: #888888; --accent: #4DFF88; --ghost: #CCCCCC; --ink: #111111; --paper: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      :root { --rule: #444444; --muted: #777777; --accent: #4DFF88; --ghost: #2A2A2A; --ink: #EEEEEE; --paper: #0D1117; }
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .draw { stroke: var(--rule); stroke-width: 1.5; stroke-dasharray: 760; stroke-dashoffset: 760; animation: d 1.3s cubic-bezier(.6,0,.2,1) .2s forwards; }
+    @keyframes d { to { stroke-dashoffset: 0; } }
+    .f { opacity: 0; animation: f .8s ease .1s forwards; }
+    @keyframes f { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .draw,.f { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; } }
+</style>
+  <g class="f">
+    <text class="mono" x="48" y="52" font-size="18" fill="var(--accent)" letter-spacing="2">TECHNICAL STACK</text>
+<text class="mono" x="48" y="96" font-size="14" fill="var(--accent)">[LANG]</text><text class="mono" x="170" y="96" font-size="14" fill="var(--ink)">TypeScript, JavaScript, Python, Java, C#, Rust, Go</text><text class="mono" x="48" y="130" font-size="14" fill="var(--accent)">[FRONT]</text><text class="mono" x="170" y="130" font-size="14" fill="var(--ink)">React, Next.js, Vite, Tailwind, GSAP, Three.js</text><text class="mono" x="48" y="164" font-size="14" fill="var(--accent)">[BACK]</text><text class="mono" x="170" y="164" font-size="14" fill="var(--ink)">Node.js, Express, Django, PostgreSQL, Redis</text><text class="mono" x="48" y="198" font-size="14" fill="var(--accent)">[CLOUD]</text><text class="mono" x="170" y="198" font-size="14" fill="var(--ink)">Firebase, GCP, Netlify, Vercel, Docker</text><text class="mono" x="48" y="232" font-size="14" fill="var(--accent)">[AI]</text><text class="mono" x="170" y="232" font-size="14" fill="var(--ink)">OpenAI, Ollama, LangChain, MCP, AI Agents</text>
+  </g>
+</svg>
