@@ -55,7 +55,7 @@ I build AI agents, real-time systems and MMORPG game engines in my spare time.<b
 Based in Southern Leyte, Philippines, shipping for clients well beyond it.
 </p>
 
-<h3>About</h3>
+<h3>More Details about Me</h3>
 
 <p>
 I am a full-stack and software engineer, and the founder of Letho AI. I work on scalable
