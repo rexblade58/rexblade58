@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h3>Connect</h3>
+<h3>Let's Connect</h3>
 
 <p>
   <a href="https://mrproject.pro"><img src="https://img.shields.io/badge/Portfolio-1A5276?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
@@ -46,7 +46,7 @@
   <a href="mailto:hello@mrproject.pro"><img src="https://img.shields.io/badge/Email-16A085?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<h3>Highlights</h3>
+<h3>My Achievements and What I do</h3>
 
 <p>
 Founding lead developer of <b>Bodego</b>, a universal inventory management platform.<br>
