@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Menard Rosal header">
+<style>
+    :root { --rule: #C0C0C0; --muted: #888888; --accent: #4DFF88; --ghost: #CCCCCC; --ink: #111111; --paper: #FFFFFF; }
+    @media (prefers-color-scheme: dark) {
+      :root { --rule: #444444; --muted: #777777; --accent: #4DFF88; --ghost: #2A2A2A; --ink: #EEEEEE; --paper: #0D1117; }
+    }
+    .mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; }
+    .draw { stroke: var(--rule); stroke-width: 1.5; stroke-dasharray: 760; stroke-dashoffset: 760; animation: d 1.3s cubic-bezier(.6,0,.2,1) .2s forwards; }
+    @keyframes d { to { stroke-dashoffset: 0; } }
+    .f { opacity: 0; animation: f .8s ease .1s forwards; }
+    @keyframes f { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .draw,.f { animation: none; } .draw { stroke-dashoffset: 0; } .f { opacity: 1; } }
+</style>
+  <rect width="1000" height="180" fill="var(--paper)"/>
+  <g class="f">
+    <text class="mono" x="48" y="72" font-size="52" fill="var(--accent)">&gt;_</text>
+    <text class="mono" x="110" y="72" font-size="46" fill="var(--ink)">Menard Rosal</text>
+    <text class="mono" x="48" y="112" font-size="20" fill="var(--muted)">Software Engineer & Founder @ Letho AI</text>
+    <text class="mono" x="48" y="140" font-size="16" fill="var(--ghost)">Southern Leyte, Philippines | Full-Stack | AI Agents | Multi-tenant SaaS</text>
+  </g>
+  <line class="draw" x1="48" y1="156" x2="952" y2="156"/>
+</svg>
