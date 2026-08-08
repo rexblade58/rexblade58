@@ -1,5 +1,5 @@
 <h1 align="center">Menard Rosal</h1>
-<p align="center">Full-stack engineer and founder of Letho AI from Philippines 
+<p align="center">Full-stack engineer and founder of Letho AI from <img src="https://cdn.countryflags.com/thumbs/philippines/flag-400.png"> Philippines  
 
 <h3 align="center">Languages and Tools</h3>
 
