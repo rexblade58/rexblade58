@@ -153,7 +153,7 @@ Multi-store Android ecommerce platform with TypeScript service layer, supplier m
 
 ---
 
-## GitHub Statistics
+##  My Statistics
 
 <div align="center">
 
