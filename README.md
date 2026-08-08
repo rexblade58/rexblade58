@@ -23,7 +23,7 @@
 
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-      <br>    
+ 
         <h3>🌐 Let's Connect and Grow Together!</h3>
         <p>
             <a href="https://mrproject.pro" target="_blank" style="text-decoration: none;">
