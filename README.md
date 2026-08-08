@@ -10,7 +10,7 @@
 </p>
 
 
-![GitHub Snake](https://raw.githubusercontent.com/rexblade58/rexblade58/refs/heads/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/rexblade58/rexblade58/output/dist/github-snake-dark.svg)
 
 
 
