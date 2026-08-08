@@ -63,6 +63,35 @@ const menard = {
 
 ---
 
+## Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+</div>
+
+---
+
 ## Key Projects
 
 ### Bodego Universal Inventory Management System
@@ -70,7 +99,7 @@ const menard = {
 
 Multi-tenant inventory platform spanning backend API, client admin, warehouse, POS, live tracker, and rider delivery app. Led a small team and established coding standards.
 
-> **Stack:** React · TypeScript · Node.js · PostgreSQL · Vite
+> **Stack:** React / TypeScript / Node.js / PostgreSQL / Vite
 
 | Module | Stack |
 | --- | --- |
@@ -84,34 +113,34 @@ Multi-tenant inventory platform spanning backend API, client admin, warehouse, P
 ### MAYKaya Ecommerce
 Multi-store Android ecommerce platform with TypeScript service layer, supplier management, customer checkout, shipping workflows, and GCP deployment.
 
-> **Stack:** Android · TypeScript · PostgreSQL · GCP · GitLab CI
+> **Stack:** Android / TypeScript / PostgreSQL / GCP / GitLab CI
 
 ### Commissioned Systems (2020-Present)
 
-| Project | Client | Description | Stack |
-| --- | --- | --- | --- |
-| E-Payslip System | College of Maasin | Desktop payroll and payslip automation | C# / .NET / SQLite |
-| Facial Recognition & ID Scanner | Saint Joseph College | Face recognition, barcode scanning, SMS alerts | Python / OpenCV / Twilio |
-| OMR Exam Checker | Saint Joseph College | Automated answer-sheet checking and analytics | Python / OpenCV |
-| Explore Maasin | Maasin City | Local discovery and community info app | Flutter / Dart / Firebase |
-| Queuing System | Institutional | Real-time queuing with priority and SLA | Node.js / WebSocket / React |
+| Project | Client | Stack |
+| --- | --- | --- |
+| E-Payslip System | College of Maasin | C#, .NET, SQLite |
+| Facial Recognition & ID Scanner | Saint Joseph College | Python, OpenCV, Twilio |
+| OMR Exam Checker | Saint Joseph College | Python, OpenCV |
+| Explore Maasin | Maasin City LGU | Flutter, Dart, Firebase |
+| Queuing System | Institutional | Node.js, WebSocket, React |
+| Library System | Institutional | React, TypeScript, PostgreSQL |
+| LMS Web App | Institutional | React, Node.js, PostgreSQL |
 
 ### More Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| Letho AI | Edge AI application | Kotlin / Python / Swift |
-| Kaetram Dev | MMORPG game engine | JavaScript / Node.js / WebSocket |
-| Axiocraft | Open-world game server | JavaScript / Node.js / Redis |
-| Nexumi Open World | MMORPG terrain generation | GDScript / JavaScript |
-| ARIACODE | Local coding CLI and voice assistant | Python / TypeScript |
-| CodeSight | Code analysis tooling | TypeScript / Node.js |
-| LabLock | Lab access and equipment management | React / Node.js / QR |
-| Alin App | Cargo logistics and tracking | Flutter / Dart / Firebase |
-| Library System | Multi-branch library management | React / TypeScript / PostgreSQL |
-| LMS Web App | Learning management system | React / Node.js / PostgreSQL |
-| Neon Surge | Browser arcade game | Vanilla JS / Canvas |
-| Codearia | Coding CLI voice assistant | Python / TypeScript |
+| Letho AI | Edge AI application | Kotlin, Python, Swift |
+| Kaetram Dev | MMORPG game engine | JavaScript, Node.js, WebSocket |
+| Axiocraft | Open-world game server | JavaScript, Node.js, Redis |
+| Nexumi Open World | MMORPG terrain generation | GDScript, JavaScript |
+| ARIACODE | Local coding CLI and voice assistant | Python, TypeScript |
+| CodeSight | Code analysis tooling | TypeScript, Node.js |
+| LabLock | Lab access and equipment management | React, Node.js, QR |
+| Alin App | Cargo logistics and tracking | Flutter, Dart, Firebase |
+| Neon Surge | Browser arcade game | Vanilla JS, Canvas |
+| Codearia | Coding CLI voice assistant | Python, TypeScript |
 
 ---
 
@@ -127,19 +156,17 @@ Multi-store Android ecommerce platform with TypeScript service layer, supplier m
 
 ---
 
-## Statistics
+## GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexblade58&show_icons=true&theme=dark&title_color=4dff88&icon_color=4dff88&text_color=e8f5ec&bg_color=07110d&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rexblade58&show_icons=true&theme=dark&title_color=4dff88&icon_color=4dff88&text_color=e8f5ec&bg_color=07110d&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rexblade58&theme=dark&background=07110d&ring=4dff88&fire=4dff88&currStreakLabel=4dff88&sideNums=e8f5ec&sideLabels=a8b9ae&dates=a8b9ae&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=rexblade58&theme=dark&background=07110d&ring=4dff88&fire=4dff88&currStreakLabel=4dff88&sideNums=e8f5ec&sideLabels=a8b9ae&dates=a8b9ae&hide_border=true" alt="Streak Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rexblade58&layout=compact&theme=dark&title_color=4dff88&text_color=e8f5ec&bg_color=07110d&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rexblade58&layout=compact&theme=dark&title_color=4dff88&text_color=e8f5ec&bg_color=07110d&hide_border=true" alt="Top Languages" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rexblade58&bg_color=07110d&color=4dff88&line=4dff88&point=ffffff&hide_border=true&custom_title=Contribution%20Graph)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=rexblade58&column=6&theme=darkhub&no-frame=true&margin-w=15)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rexblade58&bg_color=07110d&color=4dff88&line=4dff88&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
